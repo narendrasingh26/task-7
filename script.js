@@ -61,7 +61,7 @@ function submitForm(event) {
 }
 
 function isValidEmail(email) {
-  // email validation code here
+  // email validation code her
   return true;
 }
 
